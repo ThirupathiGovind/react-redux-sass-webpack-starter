@@ -1,4 +1,4 @@
-# ReactReduxBoilerplateApp
+# ReactReduxSassWebpackBoilerplateApp
 A Starter Kit to get started on a UI Project with Reactjs, Redux, Sass and Webpack.
 
 
